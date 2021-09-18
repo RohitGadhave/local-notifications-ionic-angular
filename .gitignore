@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+/platforms
+/plugins
+/www
+/dist
+/.idea
+/.ionic
+/.sass-cache
+/.sourcemaps
+/.versions
+/.vscode
